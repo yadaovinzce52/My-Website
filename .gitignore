@@ -7,8 +7,8 @@
 # Database
 instance
 
-# Project requirements
-requirements.txt
+# Environmental Variables
+.env
 
 ### Also any macOS specific files
 .DS_Store
